@@ -24,10 +24,10 @@
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license. 
   
   ## How to Contribute
-  None
+  None.
 
   ## Tests  
-  None
+  None.
 
   ## Questions?
   GitHub [shahnoor-rashid](https://github.com/shahnoor-rashid)
