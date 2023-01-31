@@ -16,7 +16,7 @@ Please see below.
 
 ## Installation
 
-To access the website, please click the link below.
+Install nodejs and open index.js.
 ()
 
 
@@ -36,8 +36,11 @@ www.stackoverflow.com
 
 
 ## Screenshots
-![]()
-![Screenshot1]()
+
+![Screenshot1](./output/asset/Screenshot.png)
+
+## Video
+![Video](./output/asset/VIDEO%20WALKTHROUGH.mp4)
 
 
 
