@@ -12,11 +12,14 @@ Please see below.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Screenshot](#Screenshot)
+- [video](#Video)
 - [License](#license)
+
 
 ## Installation
 
-Install nodejs and open index.js.
+Install nodejs, npm and open index.js.
 ()
 
 
@@ -33,16 +36,12 @@ www.youtube.com<br>
 www.stackoverflow.com
 
 
-
-
 ## Screenshots
 
 ![Screenshot1](./output/asset/Screenshot.png)
 
 ## Video
 ![Video](./output/asset/VIDEO%20WALKTHROUGH.mp4)
-
-
 
 
 ## License
