@@ -1,4 +1,4 @@
-
+Sample README
   # Timed-quiz  
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 
@@ -15,9 +15,9 @@
   To access the website, please click the link below.
   
   ## Usage
-  '''bash
+  
     To start the game press "Start" button and follow the game. At the end you can put your initial in a box and press "Submit" button. You can also see the highscores by clicking the "View Highscores" button. You can always go back to the start page by clicking "Go back" button.
-  '''
+  
   
   ## License
   Copyright (c) shahnoor-rashid. All rights reserved.
